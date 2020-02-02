@@ -1,0 +1,5 @@
+Skill yang harus dipelajari : 
+1. Belajar GitHub
+2. Belajar PHP
+3. Belajar Object Oriented Programing berbasis Javascript
+4. Belajar MySQL
